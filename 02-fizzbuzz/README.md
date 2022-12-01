@@ -21,4 +21,4 @@
 | F  | F  |    F     |      T       | T  | T  |    T     |
 
 3. What does DeMorgan's state and how did you prove it for the case above?
-  * DeMorgan's law states that the operations and conditions get changed to their opposing counterparts whenever a "not" operation is wrapped around some conditions
+  * DeMorgan's law states that the operations and conditions get changed to their opposing counterparts whenever a "not" operation is wrapped around some conditions. On the case above, the "not" operation changed the condition for P and Q and the operation between P and Q.
